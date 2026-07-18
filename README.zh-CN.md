@@ -1,3 +1,5 @@
+[English README](README.md)
+
 <p align="center">
   <img src="./docs/assets/github-banner.png"
        alt="认知四象限 Skills 项目横幅"
@@ -15,8 +17,6 @@
 </p>
 
 一套面向反思性思考、知识边界拓展与教师科研的双语、跨平台 Agent Skills。**v1.1.0** 将两个 Skill 重构为平台中立核心，可用于 **WorkBuddy、OpenAI Codex 和 Claude Code**。
-
-[English README](README.md)
 
 > 当前工具包已经按照三个平台公开文档中的 Skill 结构进行适配。不同平台开放的联网、文件、搜索和成果生成能力可能不同，实际运行效果仍取决于宿主平台、模型与权限配置。
 
