@@ -1,4 +1,4 @@
-[简体中文说明](README.zh-CN.md)
+➡️➡️➡️[简体中文说明](README.zh-CN.md)
 
 <p align="center">
   <img src="./docs/assets/github-banner.png"
