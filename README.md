@@ -1,7 +1,18 @@
+<p align="center">
+  <img src="./docs/assets/github-banner.png"
+       alt="Cognitive Quadrant Skills Banner"
+       width="100%">
+</p>
 # Cognitive Quadrant Skills
 
 **Express · Ask · Iterate · Explore**
+## Workflow Overview
 
+<p align="center">
+  <img src="./docs/assets/workflow-overview.png"
+       alt="Express Ask Iterate Explore Workflow"
+       width="92%">
+</p>
 A bilingual, cross-platform Agent Skills suite for reflective thinking, knowledge-boundary exploration, and teacher research. Version **1.1.0** uses one platform-neutral core and is packaged for **WorkBuddy, OpenAI Codex, and Claude Code**.
 
 [简体中文说明](README.zh-CN.md)
@@ -52,6 +63,12 @@ Use it to:
 Universal package: [`releases/cognitive-quadrant-teacher-research-v1.1.0.zip`](releases/cognitive-quadrant-teacher-research-v1.1.0.zip)
 
 ## Bilingual editable templates
+
+<p align="center">
+  <img src="./docs/assets/template-preview.png"
+       alt="Bilingual Editable Template Packs"
+       width="92%">
+</p>
 
 Both Skills include complete, editable Word template packs in **English** and **Simplified Chinese**. Each language pack contains:
 
