@@ -1,6 +1,18 @@
+<p align="center">
+  <img src="./docs/assets/github-banner.png"
+       alt="认知四象限 Skills 项目横幅"
+       width="100%">
+</p>
+
 # 认知四象限 Skills
 
 **Express 表达 · Ask 求助 · Iterate 迭代 · Explore 探索**
+
+<p align="center">
+  <img src="./docs/assets/workflow-overview.png"
+       alt="表达 提问 迭代 探索工作流"
+       width="92%">
+</p>
 
 一套面向反思性思考、知识边界拓展与教师科研的双语、跨平台 Agent Skills。**v1.1.0** 将两个 Skill 重构为平台中立核心，可用于 **WorkBuddy、OpenAI Codex 和 Claude Code**。
 
@@ -54,6 +66,12 @@
 通用安装包：[`releases/cognitive-quadrant-teacher-research-v1.1.0.zip`](releases/cognitive-quadrant-teacher-research-v1.1.0.zip)
 
 ## 中英文可编辑模板
+
+<p align="center">
+  <img src="./docs/assets/template-preview.png"
+       alt="中英文双语模板包"
+       width="92%">
+</p>
 
 两个 Skill 均包含完整的**英文版**和**简体中文版**可编辑 Word 模板。每套语言模板均包括：
 
