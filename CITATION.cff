@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "Cognitive Quadrant Skills"
+message: "If you use this project, please cite it using this metadata."
+type: software
+authors:
+  - family-names: "Ma"
+    given-names: "Xiao"
+version: 1.1.0
+date-released: 2026-07-17
+license: Apache-2.0
+abstract: "A bilingual cross-platform Agent Skills suite that operationalizes the known–unknown quadrant as Express, Ask, Iterate, and Explore for general cognition and teacher research."
+keywords:
+  - agent-skills
+  - metacognition
+  - teacher-research
+  - vocational-education
+  - workbuddy
+  - codex
+  - claude-code

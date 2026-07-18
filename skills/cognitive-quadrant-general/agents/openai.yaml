@@ -1,0 +1,9 @@
+interface:
+  display_name: "Cognitive Quadrant — Thinking & Exploration"
+  short_description: "Clarify issues, expose blind spots, and design testable next steps."
+  icon_small: "./assets/icon.png"
+  icon_large: "./assets/icon.png"
+  brand_color: "#315CFF"
+  default_prompt: "Use the cognitive quadrant workflow to clarify this issue, identify blind spots, update my understanding, and propose verifiable next steps."
+policy:
+  allow_implicit_invocation: true

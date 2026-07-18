@@ -1,0 +1,2 @@
+843e3de1a2109d7a86f4ad3b9b253706fa10a527fac0dcd4b366e2268b03bd7a  cognitive-quadrant-general-v1.1.0.zip
+f1c7493e2b2cd821170c9f59fd671b2033d6500c6021b6e94f1de142bbd1703e  cognitive-quadrant-teacher-research-v1.1.0.zip

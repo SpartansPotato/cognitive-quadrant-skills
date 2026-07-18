@@ -1,0 +1,9 @@
+interface:
+  display_name: "Cognitive Quadrant — Teacher Research & Innovation"
+  short_description: "Turn teaching practice into evidence-aware research questions and innovation paths."
+  icon_small: "./assets/icon.png"
+  icon_large: "./assets/icon.png"
+  brand_color: "#315CFF"
+  default_prompt: "Use the cognitive quadrant research workflow to diagnose this teaching or research idea, identify evidence gaps, revise assumptions, and propose innovation directions with verification paths."
+policy:
+  allow_implicit_invocation: true
