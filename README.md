@@ -1,3 +1,5 @@
+[简体中文说明](README.zh-CN.md)
+
 <p align="center">
   <img src="./docs/assets/github-banner.png"
        alt="Cognitive Quadrant Skills Banner"
@@ -14,8 +16,6 @@
        width="92%">
 </p>
 A bilingual, cross-platform Agent Skills suite for reflective thinking, knowledge-boundary exploration, and teacher research. Version **1.1.0** uses one platform-neutral core and is packaged for **WorkBuddy, OpenAI Codex, and Claude Code**.
-
-[简体中文说明](README.zh-CN.md)
 
 > Status: the packages follow the documented Skill structures of the three platforms. WorkBuddy, Codex, and Claude Code can expose different tools and permissions, so runtime behavior still depends on the host platform and selected model.
 
